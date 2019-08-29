@@ -1,0 +1,23 @@
+{
+  "name": "get-country-name",
+  "version": "1.0.0",
+  "description": "get country names ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HPsunilkumar/get-county-names.git"
+  },
+  "keywords": [
+    "random",
+    "country"
+  ],
+  "author": "Sunil Kumar HP <hp.sunilkumar793@gmail.com> (example.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HPsunilkumar/get-county-names/issues"
+  },
+  "homepage": "https://github.com/HPsunilkumar/get-county-names#readme"
+}
